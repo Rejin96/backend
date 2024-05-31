@@ -1,0 +1,12 @@
+EJ1TieS3JFfwz5te
+mongodb+srv://tarakmehtaat845:EJ1TieS3JFfwz5te@cluster0.gfpzaej.mongodb.net/
+
+
+
+
+
+
+while using mongodb app
+mongo://localhost:27017/dbname
+
+make a app that store, the info about vlog
